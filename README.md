@@ -1,6 +1,6 @@
 ## sejam bem vindos ao perfil do DEV Lucas Araujo!!!
 - 📦👨‍💻 DEV AND SMART CONTRACTS
-- 🦆 pulumi em aprendizado
+- 🦆💎 pulumi e ruby em aprendizado
 <div style="display: inline_block"><br>
   <img align="center" alt="luqueta-sol" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
   <img align="center" alt="luqueta-pulumi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />
@@ -10,7 +10,8 @@
   <img align="center" alt="luqueta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luqueta-ansible" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <img align="center" alt="luqueta-terraform"height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> 
-  
+   <img align="center" alt="luqueta-ruby"height="30" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+
  
 <div> 
 
