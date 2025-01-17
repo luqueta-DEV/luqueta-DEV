@@ -11,8 +11,12 @@
   <img align="center" alt="luqueta-ansible" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <img align="center" alt="luqueta-terraform"height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> 
    <img align="center" alt="luqueta-ruby"height="30" width "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-
- 
+  <img align="center" alt="luqueta-rust"height="30" width "200" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+ <img align="center" alt="luqueta-ruby"height="45" width "40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+          
+           
+           
+          
 <div> 
 
  <a href="luqueta_23" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
