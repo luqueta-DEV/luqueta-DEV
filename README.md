@@ -4,7 +4,7 @@
 - NO CAP
 <div style="display: inline_block"><br>
   <img align="center" alt="luqueta-sol" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
-  <img align="center" alt="luqueta-pulumi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />
+  <img align="center" alt="luqueta-pulumi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />  
   <img align="center" alt="luqueta-js" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
   <img align="center" alt=luqueta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luqueta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +16,9 @@
  <img align="center" alt="luqueta-go"height="45" width "40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
  <img align="center" alt="luqueta-java"height="50" width "40" <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />      
   <img align="center" alt="luqueta-react"height="45" width "40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
-           
+  <img align="center" alt="luqueta-react"height="45" width "40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  
+                   
           
 <div> 
 
