@@ -1,7 +1,7 @@
-## sejam bem vindos ao perfil do DEV Lucas Araujo!!!
-- 📦👨‍💻 DEV AND DEVELOPER WEB
-- 18 YEARS
-- NO CAP
+## 👨‍💻 Lucas Araújo
+**Desenvolvedor de Infraestrutura**
+-jovem de 18 que trabalham com ediçoes de vídeo, design e claro o que faço de melhor PROGRAMAR! conceitos que não são padroes são comigo mesmo, desde blockchain ate infraestrutura de nuvem,tenho uma historia mirim em programação mais uma habilidade de se adaptar sensacional se uiser ver publicaçoes novas acesse [lucas-araújo](www.linkedin.com/in/lucas-araújo-51111b344)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="luqueta-sol" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
   <img align="center" alt="luqueta-pulumi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />  
