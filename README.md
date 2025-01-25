@@ -25,8 +25,11 @@
  <img align="center" alt="luqueta-java"height="25" width "30" <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />      
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
+  <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
 
 ### 📊 Métricas
 
 ![Estátistcas do luqueta](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=dark)
+
+
