@@ -10,7 +10,7 @@
    <a href="https://www.tiktok.com/@luquetadev?_t=ZM-8tGSIFJfkW6&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="https://youtube.com/@xlux23?si=ffb1Bi8oNeUI2iNS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   ---
- ### 💻 Linguagens 
+ ### 💻 Linguagens e editores 
    <img align="center" alt="luqueta-sol" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
   <img align="center" alt="luqueta-pulumi" height="25" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />  
   <img align="center" alt="luqueta-js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
@@ -27,7 +27,9 @@
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-plain.svg" />
-                  
+  <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+  <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+                                
 
 ### 📊 Métricas
 
