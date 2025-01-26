@@ -26,10 +26,18 @@
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-          
+  <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-plain.svg" />
+                  
 
 ### 📊 Métricas
 
 ![Estátistcas do luqueta](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=dark)
+
+
+## 🐍 Snake Eating My Contributions
+
+![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
