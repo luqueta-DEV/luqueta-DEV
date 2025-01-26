@@ -34,9 +34,7 @@
 ![Estátistcas do luqueta](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=dark)
 
 
-## 🐍 Snake Eating My Contributions
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 
 
