@@ -1,6 +1,9 @@
-## 👨‍💻 Lucas Araújo
-**Desenvolvedor de Infraestrutura**
--jovem de 18 que trabalham com ediçoes de vídeo, design e claro o que faço de melhor PROGRAMAR! conceitos que não são padroes são comigo mesmo, desde blockchain ate infraestrutura de nuvem,tenho uma historia mirim em programação mais uma habilidade de se adaptar sensacional se uiser ver publicaçoes novas acesse [lucas-araújo](www.linkedin.com/in/lucas-araújo-51111b344)          
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas;I'm+18+years+old;I'm+a+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+---         
        
 <div> 
 
