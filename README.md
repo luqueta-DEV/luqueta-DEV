@@ -35,8 +35,9 @@
                                 
 
 ### 📊 Métricas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqueta-DEV&layout=compact&langs_count=10&theme=tokyonight)
 
-![Estátistcas do luqueta](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=dark)
 
 
 <picture align="center">
