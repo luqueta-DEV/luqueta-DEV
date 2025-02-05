@@ -29,10 +29,12 @@
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
   <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-plain.svg" />
   <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-  <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-                                
+  <img align="center" alt="luqueta-apple"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+ <img align="center" alt="luqueta-linux"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="luqueta-C++"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+          
+                                        
 
 ### 📊 Métricas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=tokyonight)
