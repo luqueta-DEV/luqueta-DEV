@@ -13,21 +13,15 @@
    <a href="https://www.tiktok.com/@luquetadev?_t=ZM-8tGSIFJfkW6&_r=1"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
   <a href="https://youtube.com/@xlux23?si=ffb1Bi8oNeUI2iNS"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   ---
- ### 💻 Linguagens e editores 
+ ### 💻 Principais linguagens e editores 
    <img align="center" alt="luqueta-sol" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
-  <img align="center" alt="luqueta-pulumi" height="25" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />  
   <img align="center" alt="luqueta-js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
-  <img align="center" alt=luqueta-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="luqueta-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luqueta-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="luqueta-ansible" height="25" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
   <img align="center" alt="luqueta-terraform"height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> 
    <img align="center" alt="luqueta-ruby"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
   <img align="center" alt="luqueta-rust"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
- <img align="center" alt="luqueta-go"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
- <img align="center" alt="luqueta-java"height="25" width "30" <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />      
-  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
-  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+ <img align="center" alt="luqueta-java"height="25" width "30" <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />            
   <img align="center" alt="luqueta-typescript"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
   <img align="center" alt="luqueta-apple"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
@@ -35,8 +29,23 @@
   <img align="center" alt="luqueta-C++"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
    <img align="center" alt="luqueta-C"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
           
-  
+  ---   
+ ### ⌚ linguagens secundarias e frames 
+ <img align="center" alt="luqueta-CSS" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="luqueta-pulumi" height="25" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original.svg" />  
+  <img align="center" alt=luqueta-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="luqueta-go"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> 
+  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
+  <img align="center" alt="luqueta-AWS"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+ <img align="center" alt="luqueta-c#"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="luqueta-django"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img align="center" alt="luqueta-ASM"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" />
+ <img align="center" alt="luqueta-oracle"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
           
+ ---                                  
+           
+          
+ 
                                         
 
 ### 📊 Métricas
