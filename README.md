@@ -50,10 +50,7 @@
                                         
 
 ### 📊 Métricas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqueta-DEV&layout=compact&langs_count=10&theme=tokyonight)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqueta-DEV&layout=compact&langs_count=10&theme=dark)  
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
@@ -62,7 +59,7 @@
 </picture>
  
  
-[![Luqueta-DEV's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luqueta-DEV&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Luqueta-DEV's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luqueta-DEV&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
