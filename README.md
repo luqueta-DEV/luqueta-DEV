@@ -17,7 +17,7 @@
  <img align="center" alt="luqueta-sol" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
   <img align="center" alt="luqueta-js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">
   <img align="center" alt="luqueta-Python" height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />        
-  <img align="center" alt="luqueta-ansible" height="25" width="30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+  <img align="center" alt="luqueta-ansible" height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain.svg" />         
   <img align="center" alt="luqueta-terraform"height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> 
    <img align="center" alt="luqueta-ruby"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
   <img align="center" alt="luqueta-rust"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
