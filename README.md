@@ -39,7 +39,7 @@
     <img align="center" alt="luqueta-ASM"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" />
  <img align="center" alt="luqueta-oracle"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
    <img align="center" alt="luqueta-azure"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" />
-    <img align="center" alt="luqueta-postSQL"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="luqueta-postSQL"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="center" alt="luqueta-spring"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
           
           
