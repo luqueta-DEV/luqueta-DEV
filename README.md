@@ -57,6 +57,8 @@
     <img align="center" alt="luqueta-Postman"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
      <img align="center" alt="luqueta-Photoshop"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
      <img align="center" alt="luqueta-Tensorflow"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+      <img align="center" alt="luqueta-Jupyter"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain.svg" />
+          
           
           
           
