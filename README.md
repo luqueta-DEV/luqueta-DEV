@@ -51,6 +51,18 @@
   <img align="center" alt="luqueta-after-efects"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
   <img align="center" alt="luqueta-Windows"height="20" width "50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
  <img align="center" alt="luqueta-Canva"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img align="center" alt="luqueta-VS"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="luqueta-intellij"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain.svg" />
+   <img align="center" alt="luqueta-Gimp"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />
+    <img align="center" alt="luqueta-Postman"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+     <img align="center" alt="luqueta-Photoshop"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" />
+     <img align="center" alt="luqueta-Tensorflow"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+          
+          
+          
+          
+          
+          
           
  ---      
                                    
