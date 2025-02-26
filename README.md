@@ -40,10 +40,8 @@
   ---   
  ### 🖥️ Frameworks,Providers e Sistemas operacionais
   <img align="center" alt="luqueta-spring" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />         
- <img align="center" alt="luqueta-c#"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />       
+  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />             
   <img align="center" alt="luqueta-django"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-    <img align="center" alt="luqueta-ASM"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" />
  <img align="center" alt="luqueta-oracle"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
    <img align="center" alt="luqueta-azure"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" />
     <img align="center" alt="luqueta-postSQL"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
