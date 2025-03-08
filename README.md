@@ -55,6 +55,8 @@
      <img align="center" alt="luqueta-Tensorflow"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
       <img align="center" alt="luqueta-Jupyter"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain.svg" />         
            <img align="center" alt="luqueta-apple"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg">
+            <img align="center" alt="luqueta-angular"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
+          
           
 
  --- 
