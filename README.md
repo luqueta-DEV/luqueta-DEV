@@ -33,6 +33,8 @@
   <img align="center" alt=luqueta-HTML" height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />        
  <img align="center" alt="luqueta-go"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-plain.svg" /> 
   <img align="center" alt="luqueta-c#"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />     
+   <img align="center" alt="luqueta-matlab"height="25" width "30"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-plain.svg" />
+          
           
   ---   
  ### 🖥️ Frameworks e Providers 
