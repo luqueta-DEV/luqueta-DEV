@@ -1,78 +1,69 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas;I'm+18+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Lucas;I'm+19+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---         
        
-<div> 
-<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="lucasaraujo080806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lucas-araújo-51111b344" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.tiktok.com/@luquetadev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href="https://youtube.com/@xlux23"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-<div align="center">
-  <h3>Minhas Habilidades:</h3>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" height="40" alt="javascript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" height="40" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="figma logo" />
+<div align="center"> 
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:lucasaraujo080806@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-araújo-51111b344" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@luquetadev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://youtube.com/@xlux23" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
- ### 💻  Linguagens Secundarias
- <img align="center" alt="luqueta-sol" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg">
-  <img align="center" alt="luqueta-js" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"">  
-  <img align="center" alt="luqueta-ansible" height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain.svg" />         
-  <img align="center" alt="luqueta-terraform"height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-plain.svg" />     
-   <img align="center" alt="luqueta-ruby"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />                  
-  <img align="center" alt="luqueta-C++"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-   <img align="center" alt="luqueta-CSS" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"> 
-  <img align="center" alt=luqueta-HTML" height="25" width="30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />        
- <img align="center" alt="luqueta-go"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-plain.svg" /> 
-  <img align="center" alt="luqueta-c#"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />     
-   <img align="center" alt="luqueta-matlab"height="25" width "30"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-plain.svg" />
-          
-          
-  ---   
- ### 🖥️ Frameworks e Providers 
-  <img align="center" alt="luqueta-spring" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="luqueta-react"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />             
-  <img align="center" alt="luqueta-django"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
- <img align="center" alt="luqueta-oracle"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-   <img align="center" alt="luqueta-azure"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" />
-    <img align="center" alt="luqueta-postSQL"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="luqueta-Postman"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-     <img align="center" alt="luqueta-Tensorflow"height="25" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-      <img align="center" alt="luqueta-Jupyter"height="25" width "30" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain.svg" />         
-            <img align="center" alt="luqueta-angular"height="25" width "30"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
-          
-          
+<div align="center">
+  <h3>🦀 Linguagem Principal</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="50" alt="rust logo" />
+</div>
 
- --- 
+<br>
 
-                                   
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h4>💻 Linguagens Secundárias</h4>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="35" alt="html5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35" alt="css3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" alt="typescript" />
+    </td>
+    <td align="center" width="50%">
+      <h4>🖥️ Frameworks & Providers</h4>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" alt="react" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="35" alt="postman" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📊 Métricas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&bg_color=000000&title_color=00ffff&text_color=c0c0c0&icon_color=00ffff)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luqueta-DEV&layout=compact&langs_count=10&bg_color=000000&title_color=00ffff&text_color=c0c0c0)
+
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=luqueta-DEV&show_icons=true&bg_color=000000&title_color=00ffff&text_color=c0c0c0&icon_color=00ffff" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqueta-DEV&layout=compact&langs_count=10&bg_color=000000&title_color=00ffff&text_color=c0c0c0" />
+</div>
+<br>
 
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
- 
- 
-[![Luqueta-DEV's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luqueta-DEV&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
+<br>
 
-
-
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luqueta-DEV&bg_color=000000&color=00ffff&line=00ffff&point=00ffff&area=true&hide_border=true" width="100%" />
+  </a>
+</div>
 
 
 
